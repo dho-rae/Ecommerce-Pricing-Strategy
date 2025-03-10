@@ -1,0 +1,2 @@
+NAP001,Birkenstock Arizona Suede Sandal,$,130,2112,112.89,6.45,0.21
+NAP002,Nike Air Jordan 6 Retro Sneakers,$,195,3030,75,6.45,0.21

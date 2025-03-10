@@ -1,0 +1,6 @@
+NAP001,Birkenstock Arizona Suede Sandal,Foot District,$,130
+NAP001,Birkenstock Arizona Suede Sandal,Farfetch,$,129
+NAP001,Birkenstock Arizona Suede Sandal,Ssense,$,140
+NAP002,Nike Air Jordan 6 Retro Sneakers,Foot District,$,180
+NAP002,Nike Air Jordan 6 Retro Sneakers,Farfetch,$,146
+NAP002,Nike Air Jordan 6 Retro Sneakers,Ssense,$,235
